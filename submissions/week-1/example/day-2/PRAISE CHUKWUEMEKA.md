@@ -1,6 +1,6 @@
 PRAISE CHUKWUEMEKA
 13 NOVERMBER
-
+https://x.com/bpraises13/status/1988830096887566524?t=7GP35gkDb01xNCanU1fcJw&s=19
 
 Definition (in my words):
 A Distributed Ledger Technology is a system that records and replicates transactions or data across multiple independent nodes in a network so that every participant can hold and verify a synchronized copy of the ledger without relying on a single centralized authority.
