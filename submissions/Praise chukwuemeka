@@ -839,3 +839,21 @@ Arbitrum
 
 “Arbitrum Nodes: Everything You Need to Know” — Alchemy overview.
 
+### Comparison Table
+
+| Blockchain | Consensus | Node Types | Main Client | Block Time | Validator Type |
+|------------|-----------|------------|-------------|------------|----------------|
+Bitcoin (BTC)	Proof of Work (PoW) using SHA-256	Full Nodes, SPV (Light) Nodes, Mining Nodes, Archival Nodes	Bitcoin Core (C++)	~10 minutes	Miners (ASIC-based hash producers)
+
+Ethereum (ETH)	Proof of Stake (PoS)	Execution Nodes, Consensus Nodes, Validator Nodes	Geth (Go-Ethereum); Alternatives: Nethermind, Besu, Erigon	~12 seconds	Validators (Stakers selected randomly based on stake)
+
+Solana (SOL)	Proof of History (PoH) + Proof of Stake (PoS) hybrid	Validator Nodes, RPC Nodes, Archiver Nodes, Leader Nodes	Solana Labs (Rust); Upcoming: Firedancer (C++)	~0.4 seconds	Validators / Leaders (rotating schedule based on stake)
+
+Arbitrum (ARB)	Optimistic Rollup + Fraud Proofs (on Ethereum PoS)	Full Nodes, Sequencer Node, Validator Nodes, RPC Nodes	Arbitrum Nitro (Go & Rust)	~0.25 seconds (instant on L2); ~7 days (final on L1)	Sequencer (temporarily centralized); Validators (monitor fraud, stake ETH)
+
+Key Insights:
+- Fastest Block Time: Solana (~0.4s), followed by Arbitrum (~0.25s L2).
+- Most Decentralized: Bitcoin (thousands of independent miners).
+- Most Energy-Efficient: Ethereum and Arbitrum (PoS and rollup systems).
+- Most Scalable: Arbitrum (~40,000 TPS) and Solana (~65,000 TPS).
+- Most Mature Client Diversity: Ethereum (multiple consensus + execution clients).
