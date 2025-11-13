@@ -1,8 +1,8 @@
 PRAISE CHUKWUEMEKA
 13 NOVEMBER
+https://x.com/bpraises13/status/1988835527399789010?t=7GP35gkDb01xNCanU1fcJw&s=19
 
 Fungible Tokens (FTs)
-
 What are Fungible Tokens?
 
 Definition (plain):
